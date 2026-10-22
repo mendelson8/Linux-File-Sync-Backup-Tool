@@ -1,0 +1,14 @@
+*.o
+*.d
+sop-backup
+watccher
+build/
+
+.idea/
+.vscode/
+.DS_Store
+
+test_src*/
+test_dst*/
+testsrc/
+testdst/
